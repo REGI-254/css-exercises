@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.shared {
+    font-size: 26px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.button-one {
+    background-color: black; 
+    color: white;
+}
+
+.button-two {
+    background-color: yellow; 
+}
